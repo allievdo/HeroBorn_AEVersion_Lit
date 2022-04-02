@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 2df9e45811e6e4a4596364a7363fdd34
+  - enabled: 1
+    path: Assets/Scenes/AE_HeroBorn_ver2.unity
+    guid: 62d95ef49e9f51d4c8c04d21d4398467
   m_configObjects: {}
