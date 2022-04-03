@@ -15,11 +15,11 @@ E:/SIM 150 Game Systems/HeroBorn_AEVersion_SetDressing2/HeroBornAEVer
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-53530
+53967
 Successfully changed project path to: E:/SIM 150 Game Systems/HeroBorn_AEVersion_SetDressing2/HeroBornAEVer
 E:/SIM 150 Game Systems/HeroBorn_AEVersion_SetDressing2/HeroBornAEVer
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 26.45 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 26.42 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.17f1 (a4537701e4ab)
 [Subsystems] Discovering subsystems at path D:/Program Files/2020.3.17f1/Editor/Data/Resources/UnitySubsystems
@@ -35,75 +35,75 @@ Initialize mono
 Mono path[0] = 'D:/Program Files/2020.3.17f1/Editor/Data/Managed'
 Mono path[1] = 'D:/Program Files/2020.3.17f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'D:/Program Files/2020.3.17f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56812
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56656
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: D:/Program Files/2020.3.17f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: D:/Program Files/2020.3.17f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001053 seconds.
+Registered in 0.000889 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 25.88 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 26.34 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.709 seconds
+- Completed reload, in  0.729 seconds
 Domain Reload Profiling:
-	ReloadAssembly (710ms)
-		BeginReloadAssembly (41ms)
+	ReloadAssembly (729ms)
+		BeginReloadAssembly (39ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
 		EndReloadAssembly (319ms)
-			LoadAssemblies (40ms)
+			LoadAssemblies (38ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (118ms)
+			SetupTypeCache (119ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (25ms)
-			SetupLoadedEditorAssemblies (123ms)
+			RebuildScriptCaches (26ms)
+			SetupLoadedEditorAssemblies (121ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (4ms)
 				SetLoadedEditorAssemblies (0ms)
 				RefreshPlugins (26ms)
 				BeforeProcessingInitializeOnLoad (7ms)
-				ProcessInitializeOnLoadAttributes (64ms)
-				ProcessInitializeOnLoadMethodAttributes (23ms)
+				ProcessInitializeOnLoadAttributes (62ms)
+				ProcessInitializeOnLoadMethodAttributes (22ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.002098 seconds.
+Registered in 0.002050 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.31 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.32 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.800 seconds
+- Completed reload, in  0.819 seconds
 Domain Reload Profiling:
-	ReloadAssembly (800ms)
-		BeginReloadAssembly (109ms)
+	ReloadAssembly (820ms)
+		BeginReloadAssembly (110ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (4ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (15ms)
-		EndReloadAssembly (648ms)
-			LoadAssemblies (62ms)
+		EndReloadAssembly (665ms)
+			LoadAssemblies (63ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (204ms)
+			SetupTypeCache (208ms)
 			ReleaseScriptCaches (0ms)
 			RebuildScriptCaches (32ms)
-			SetupLoadedEditorAssemblies (276ms)
+			SetupLoadedEditorAssemblies (289ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (4ms)
 				SetLoadedEditorAssemblies (0ms)
 				RefreshPlugins (0ms)
 				BeforeProcessingInitializeOnLoad (40ms)
-				ProcessInitializeOnLoadAttributes (226ms)
+				ProcessInitializeOnLoadAttributes (240ms)
 				ProcessInitializeOnLoadMethodAttributes (3ms)
 				AfterProcessingInitializeOnLoad (2ms)
 				EditorAssembliesLoaded (0ms)
@@ -113,14 +113,14 @@ Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
-Refreshing native plugins compatible for Editor in 0.37 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.39 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1412 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 70.9 MB.
 System memory in use after: 70.4 MB.
 
 Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 1851.
-Total: 2.527200 ms (FindLiveObjects: 0.160900 ms CreateObjectMapping: 0.033200 ms MarkObjects: 2.149800 ms  DeleteObjects: 0.182600 ms)
+Total: 2.579000 ms (FindLiveObjects: 0.126700 ms CreateObjectMapping: 0.031200 ms MarkObjects: 2.234600 ms  DeleteObjects: 0.185700 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -135,369 +135,281 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  path: Assets/Street_props/Hydrant/Hydrant_01_New.mat
-  artifactKey: Guid(3d8e34aa3df91b14db092b0d263a7edb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Street_props/Hydrant/Hydrant_01_New.mat using Guid(3d8e34aa3df91b14db092b0d263a7edb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7e27380ca1abc0cba30e081ba929827') in 0.113701 seconds 
-  Import took 0.115641 seconds .
+  path: Assets/Materials
+  artifactKey: Guid(9c878fbfd348d684290ffac325950572) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials using Guid(9c878fbfd348d684290ffac325950572) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49f8ec5ba638501967e8728cc285ab5f') in 0.014289 seconds 
+  Import took 0.016026 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000254 seconds.
-  path: Assets/Street_props/Hydrant/Hydrant_02_Old.mat
-  artifactKey: Guid(958436614861c2940bb6ab74283f47d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Street_props/Hydrant/Hydrant_02_Old.mat using Guid(958436614861c2940bb6ab74283f47d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68071dd1e48809ee3f5122bf37be9c1b') in 0.045072 seconds 
-  Import took 0.047249 seconds .
+  Time since last request: 9.293751 seconds.
+  path: Assets/Materials/JumpBoostLight.mat
+  artifactKey: Guid(a925b78ff7455b3448af4c9885bcf5cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/JumpBoostLight.mat using Guid(a925b78ff7455b3448af4c9885bcf5cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae827a8875b65c20761ea760dcaf3366') in 0.104426 seconds 
+  Import took 0.107254 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000240 seconds.
-  path: Assets/Street_props/Hydrant/Hydrant_02_New.mat
-  artifactKey: Guid(fb172f8fb0d9e084fadbd672614ee096) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Street_props/Hydrant/Hydrant_02_New.mat using Guid(fb172f8fb0d9e084fadbd672614ee096) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae7c949d48cf823074f895e93e2142bc') in 0.043334 seconds 
-  Import took 0.045537 seconds .
+  Time since last request: 33.458562 seconds.
+  path: Assets/Materials/JumpBoostLight.mat
+  artifactKey: Guid(a925b78ff7455b3448af4c9885bcf5cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/JumpBoostLight.mat using Guid(a925b78ff7455b3448af4c9885bcf5cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31e984613732a121ce01c286b97ff00f') in 0.029605 seconds 
+  Import took 0.031783 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000207 seconds.
-  path: Assets/Street_props/Hydrant/Hydrant_01_N.tga
-  artifactKey: Guid(223f6b121b8f5d049b3d81f14f3749db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Street_props/Hydrant/Hydrant_01_N.tga using Guid(223f6b121b8f5d049b3d81f14f3749db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c47a995ff14c4dd97cf9dc51d4f665a6') in 0.028301 seconds 
-  Import took 0.030259 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000235 seconds.
-  path: Assets/Street_props/Hydrant/Hydrant_01_New_SG.tga
-  artifactKey: Guid(5eeedb291b9682147936a850d9250362) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Street_props/Hydrant/Hydrant_01_New_SG.tga using Guid(5eeedb291b9682147936a850d9250362) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '735487a32fd6b0e512a1de29cf38d17c') in 0.030204 seconds 
-  Import took 0.032141 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000262 seconds.
-  path: Assets/Street_props/Bench/Bench_01_Old.mat
-  artifactKey: Guid(fb1d156e98d698d44b75cee6368ac68c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Street_props/Bench/Bench_01_Old.mat using Guid(fb1d156e98d698d44b75cee6368ac68c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e3939170e8c33bb8fe42502ff1bce0e') in 0.029863 seconds 
-  Import took 0.031805 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000218 seconds.
-  path: Assets/Street_props/Bench/Bench_02_new_n.tga
-  artifactKey: Guid(75fd31614b2d592448cc14ed8ec7658b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Street_props/Bench/Bench_02_new_n.tga using Guid(75fd31614b2d592448cc14ed8ec7658b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a40c864ac430c7901b091beb2092a8de') in 0.024067 seconds 
-  Import took 0.025880 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000176 seconds.
-  path: Assets/Street_props/Hydrant/Hyrdrant_01_Old_D.tga
-  artifactKey: Guid(43f3bf8e72eb2004f8424bd117053dda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Street_props/Hydrant/Hyrdrant_01_Old_D.tga using Guid(43f3bf8e72eb2004f8424bd117053dda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbe5f35b9b8fa43052f6d82a61a8a015') in 0.023466 seconds 
-  Import took 0.025525 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000169 seconds.
-  path: Assets/Street_props/Bench/Bench_02_Old_Prefab.prefab
-  artifactKey: Guid(26ff2f9d53deb3b4c954894591340206) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Street_props/Bench/Bench_02_Old_Prefab.prefab using Guid(26ff2f9d53deb3b4c954894591340206) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '261ca65231aef0e8a58e575d85da9ef6') in 0.042215 seconds 
-  Import took 0.044488 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000220 seconds.
-  path: Assets/Street_props/Bench/Bench_01_New.mat
-  artifactKey: Guid(35b30d79816def14aba13bd67210c663) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Street_props/Bench/Bench_01_New.mat using Guid(35b30d79816def14aba13bd67210c663) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f76c5e6562a8f94ee2fc9684f3d070e') in 0.030268 seconds 
-  Import took 0.032440 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000144 seconds.
-  path: Assets/Street_props/Hydrant/Hydrant_02_New_Prefab.prefab
-  artifactKey: Guid(d97ee397119879f42b27a8e451485a4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Street_props/Hydrant/Hydrant_02_New_Prefab.prefab using Guid(d97ee397119879f42b27a8e451485a4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7273d9976a323854d0f45eebb5792060') in 0.030509 seconds 
-  Import took 0.032798 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000244 seconds.
-  path: Assets/Street_props/Hydrant/Hydrant_02_old_sg.tga
-  artifactKey: Guid(9adb50f7f23499541a981c06933a7944) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Street_props/Hydrant/Hydrant_02_old_sg.tga using Guid(9adb50f7f23499541a981c06933a7944) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be199c5f0c3d441b34896ba7d4876b29') in 0.029084 seconds 
-  Import took 0.030960 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000210 seconds.
-  path: Assets/Street_props/Bench/Bench_01_OldPrefab.prefab
-  artifactKey: Guid(a814136d8a6b3e845962a5cb82107688) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Street_props/Bench/Bench_01_OldPrefab.prefab using Guid(a814136d8a6b3e845962a5cb82107688) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a475313886aaf055d8d72783b43b94e') in 0.032779 seconds 
-  Import took 0.034614 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000220 seconds.
-  path: Assets/Street_props/Hydrant/Hydrant_02_old_d.tga
-  artifactKey: Guid(b5717a9428a79804aafa16de66eae6a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Street_props/Hydrant/Hydrant_02_old_d.tga using Guid(b5717a9428a79804aafa16de66eae6a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80a4788381ad315468ce8ba5be33caeb') in 0.026353 seconds 
-  Import took 0.028196 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000205 seconds.
-  path: Assets/Street_props/Bench/Bench_02_new_d.tga
-  artifactKey: Guid(97f0004bc0adaaa458cf7d6dbd3b568d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Street_props/Bench/Bench_02_new_d.tga using Guid(97f0004bc0adaaa458cf7d6dbd3b568d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83eb5eb00444abf7857018ba27117969') in 0.024756 seconds 
-  Import took 0.026776 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000137 seconds.
-  path: Assets/Street_props/Bench/Bench_02_001.obj
-  artifactKey: Guid(d5687245e93d81b43995dc848041aafa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Street_props/Bench/Bench_02_001.obj using Guid(d5687245e93d81b43995dc848041aafa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b62498e9c521ea4e8c3e74514e2c7388') in 0.054242 seconds 
-  Import took 0.056166 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000208 seconds.
-  path: Assets/Street_props/Bench/Bench_01_New_SG.tga
-  artifactKey: Guid(5b7eb5217675cbe4ca8cdd90bef88f24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Street_props/Bench/Bench_01_New_SG.tga using Guid(5b7eb5217675cbe4ca8cdd90bef88f24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b2ecccf7cef2dfa7e49f11a6c121888') in 0.025007 seconds 
-  Import took 0.026859 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000190 seconds.
-  path: Assets/Street_props/Bench/Bench_02_New.mat
-  artifactKey: Guid(7bd1fbefc590fe54e864aa2fa5d3fa1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Street_props/Bench/Bench_02_New.mat using Guid(7bd1fbefc590fe54e864aa2fa5d3fa1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5e9b691a969b8c18460fbbc9cbf6956') in 0.029162 seconds 
-  Import took 0.031485 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000218 seconds.
-  path: Assets/Street_props/Bench/Bench_01_New_D.tga
-  artifactKey: Guid(ebf1efe1065ed774b87b72e9a317c42d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Street_props/Bench/Bench_01_New_D.tga using Guid(ebf1efe1065ed774b87b72e9a317c42d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b33d24fda6d53883cfcd851305480e0') in 0.025383 seconds 
-  Import took 0.027470 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000182 seconds.
-  path: Assets/Street_props/Hydrant/Hyrdrant_01_Old_SG.tga.tga
-  artifactKey: Guid(aaf2f52ba461f9b4b842547386120ad9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Street_props/Hydrant/Hyrdrant_01_Old_SG.tga.tga using Guid(aaf2f52ba461f9b4b842547386120ad9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15439e7d4ce7d9d0eac2714f0fcde61f') in 0.023189 seconds 
-  Import took 0.025104 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000158 seconds.
-  path: Assets/Street_props/Bench/Bench_02_Old.mat
-  artifactKey: Guid(744808c89c398a742a4e18f9c886e64e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Street_props/Bench/Bench_02_Old.mat using Guid(744808c89c398a742a4e18f9c886e64e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd869a18479ed0b74e0006d4b8d70a25') in 0.031374 seconds 
-  Import took 0.033642 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000201 seconds.
-  path: Assets/Street_props/Bench/Bench_01_Old_SG.tga
-  artifactKey: Guid(659a5d0d1eb6c51418600d37a0eb055b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Street_props/Bench/Bench_01_Old_SG.tga using Guid(659a5d0d1eb6c51418600d37a0eb055b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96121200f97496ad7980cc80ebf59f14') in 0.024768 seconds 
+  Time since last request: 11.824993 seconds.
+  path: Assets/Materials/SpeedBoostLight.mat
+  artifactKey: Guid(63924139fdc5dd840b1e5e0d4cb03274) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/SpeedBoostLight.mat using Guid(63924139fdc5dd840b1e5e0d4cb03274) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85e47982445857053f26544affff0174') in 0.022655 seconds 
   Import took 0.026634 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000161 seconds.
-  path: Assets/Street_props/Bench/Bench_02_old_d.tga
-  artifactKey: Guid(3e86bceb6c7a82e439198535432cf2bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Street_props/Bench/Bench_02_old_d.tga using Guid(3e86bceb6c7a82e439198535432cf2bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74617007f45db4eb37299d3b83f10418') in 0.023519 seconds 
-  Import took 0.025547 seconds .
+  Time since last request: 83.578340 seconds.
+  path: Assets/Materials/SpeedBoostLight.mat
+  artifactKey: Guid(63924139fdc5dd840b1e5e0d4cb03274) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/SpeedBoostLight.mat using Guid(63924139fdc5dd840b1e5e0d4cb03274) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a50e9348b0ea578644006495aeec52d1') in 0.031050 seconds 
+  Import took 0.033392 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000128 seconds.
-  path: Assets/Street_props/Hydrant/Hydrant_02_new_sg.tga
-  artifactKey: Guid(465326becfc88a2458250616714d1423) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Street_props/Hydrant/Hydrant_02_new_sg.tga using Guid(465326becfc88a2458250616714d1423) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '212f43475ef4bfe0abea7c0b6a67a28f') in 0.024406 seconds 
-  Import took 0.026588 seconds .
+  Time since last request: 62.447742 seconds.
+  path: Assets/Materials/JumpBoostLight.mat
+  artifactKey: Guid(a925b78ff7455b3448af4c9885bcf5cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/JumpBoostLight.mat using Guid(a925b78ff7455b3448af4c9885bcf5cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26140e0623d115e309e66df7a9136b19') in 0.034309 seconds 
+  Import took 0.036343 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000241 seconds.
-  path: Assets/Street_props/Hydrant/Hydrant_02_new_n.tga
-  artifactKey: Guid(3f44e1a1d80494c47a921ea6e796b553) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Street_props/Hydrant/Hydrant_02_new_n.tga using Guid(3f44e1a1d80494c47a921ea6e796b553) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a8c9f887303bd19a2b8f48661bbfbc1') in 0.024162 seconds 
-  Import took 0.026336 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000172 seconds.
-  path: Assets/Street_props/Hydrant/Hydrant_02_Old_Prefab.prefab
-  artifactKey: Guid(8905c37c1d5034a43833aedbfd98b377) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Street_props/Hydrant/Hydrant_02_Old_Prefab.prefab using Guid(8905c37c1d5034a43833aedbfd98b377) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fac1ca7582530d2f6aa44a4fe83b1f40') in 0.032980 seconds 
-  Import took 0.035250 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000238 seconds.
-  path: Assets/Street_props/Bench/Bench_01_001.obj
-  artifactKey: Guid(99be83d852df01b40beb80de60fd6191) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Street_props/Bench/Bench_01_001.obj using Guid(99be83d852df01b40beb80de60fd6191) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91133e64fdf164a21f1973574e6147ea') in 0.033068 seconds 
-  Import took 0.034977 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000223 seconds.
-  path: Assets/Street_props/Bench/Bench_02_new_sg.tga
-  artifactKey: Guid(0e71a966c69f25e45bbce2fc1faf6d1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Street_props/Bench/Bench_02_new_sg.tga using Guid(0e71a966c69f25e45bbce2fc1faf6d1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5169157bae57bc03d47a6d03ccfaabba') in 0.027249 seconds 
-  Import took 0.029124 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000171 seconds.
-  path: Assets/Street_props/Bench/Bench_02_old_sg.tga
-  artifactKey: Guid(bf0e9311d33e8094a8028dfd1de0bb25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Street_props/Bench/Bench_02_old_sg.tga using Guid(bf0e9311d33e8094a8028dfd1de0bb25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28eadd3eb88474a1b47deb74c7c5dc02') in 0.026067 seconds 
-  Import took 0.027896 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000197 seconds.
-  path: Assets/Street_props/Hydrant/Hydrant_01_New_D.tga
-  artifactKey: Guid(76f3418a4e50cf9489cc421fab095759) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Street_props/Hydrant/Hydrant_01_New_D.tga using Guid(76f3418a4e50cf9489cc421fab095759) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd5224e3f7798909ec19d74b4882a8c6') in 0.023640 seconds 
-  Import took 0.025498 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000233 seconds.
-  path: Assets/Street_props/Hydrant/Hydrant_01_Old.mat
-  artifactKey: Guid(0aabf46cb27ddfe4a9fa1e8a70c7ef43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Street_props/Hydrant/Hydrant_01_Old.mat using Guid(0aabf46cb27ddfe4a9fa1e8a70c7ef43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a53a414e163ac8b7170fc09e40647aac') in 0.025992 seconds 
-  Import took 0.028067 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000155 seconds.
-  path: Assets/Street_props/Hydrant/Hydrant_02_001.obj
-  artifactKey: Guid(2bd352e791a4cd749b542d3f08e471ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Street_props/Hydrant/Hydrant_02_001.obj using Guid(2bd352e791a4cd749b542d3f08e471ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b70bd7790b81cab27719df26603b70c') in 0.029097 seconds 
-  Import took 0.030940 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000177 seconds.
-  path: Assets/Street_props/Bench/Bench_01_Old_D.tga
-  artifactKey: Guid(160adfb8b9dbfdb40a8ac75c7e46e484) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Street_props/Bench/Bench_01_Old_D.tga using Guid(160adfb8b9dbfdb40a8ac75c7e46e484) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af9b6f6d6df646a4c9cdf2bbaf3fb8ef') in 0.023063 seconds 
-  Import took 0.024894 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000185 seconds.
-  path: Assets/Street_props/Bench/Bench_02_New_Prefab.prefab
-  artifactKey: Guid(f7cb6bba4a3df22448baa03443bb2382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Street_props/Bench/Bench_02_New_Prefab.prefab using Guid(f7cb6bba4a3df22448baa03443bb2382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ebc2df1259fde87d0603ff9614585d8') in 0.032191 seconds 
-  Import took 0.034723 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000208 seconds.
-  path: Assets/Street_props/Hydrant/Hydrant_02_new_d.tga
-  artifactKey: Guid(2a9314f99534e14428c076adafba21cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Street_props/Hydrant/Hydrant_02_new_d.tga using Guid(2a9314f99534e14428c076adafba21cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e56a0042d97e0ece7bf816090ac1c73f') in 0.025533 seconds 
-  Import took 0.027731 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000263 seconds.
-  path: Assets/Street_props/Hydrant/Hydrant_01_New_Prefab.prefab
-  artifactKey: Guid(ee93ae4e907184a4ababba792bae3be4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Street_props/Hydrant/Hydrant_01_New_Prefab.prefab using Guid(ee93ae4e907184a4ababba792bae3be4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dadc787638df76138e5e899e7d4e8553') in 0.027924 seconds 
-  Import took 0.029927 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000208 seconds.
-  path: Assets/Street_props/Hydrant/Hydrant_01_Old_Prefab.prefab
-  artifactKey: Guid(310b6d3ef0365c94c82f32498d063668) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Street_props/Hydrant/Hydrant_01_Old_Prefab.prefab using Guid(310b6d3ef0365c94c82f32498d063668) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2266bed748ebc590529c933887013d1e') in 0.030596 seconds 
-  Import took 0.032492 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000209 seconds.
-  path: Assets/Street_props/Hydrant/Hydrant_01_001.obj
-  artifactKey: Guid(a6184c934bae8dd41880538826349c47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Street_props/Hydrant/Hydrant_01_001.obj using Guid(a6184c934bae8dd41880538826349c47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5800565b366aa8053d35930454cb5115') in 0.027459 seconds 
-  Import took 0.029326 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000227 seconds.
-  path: Assets/Street_props/Bench/Bench_01_New_Prefab.prefab
-  artifactKey: Guid(8d4fe3f7d1efff343815bd6ad1823ff2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Street_props/Bench/Bench_01_New_Prefab.prefab using Guid(8d4fe3f7d1efff343815bd6ad1823ff2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0360d713fe72efa72c714a673e07670') in 0.028449 seconds 
-  Import took 0.030678 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000261 seconds.
-  path: Assets/Street_props/Bench/Bench_01_N.tga
-  artifactKey: Guid(8f123e409b1bbd74183b7c5c8b8141e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Street_props/Bench/Bench_01_N.tga using Guid(8f123e409b1bbd74183b7c5c8b8141e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bbee7e45c93bca96c4b230fffd17e50') in 0.022977 seconds 
-  Import took 0.024939 seconds .
+  Time since last request: 0.000228 seconds.
+  path: Assets/Materials/SpeedBoostLight.mat
+  artifactKey: Guid(63924139fdc5dd840b1e5e0d4cb03274) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/SpeedBoostLight.mat using Guid(63924139fdc5dd840b1e5e0d4cb03274) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a686be05f804a587c58f1e6575cb0ad') in 0.031587 seconds 
+  Import took 0.033418 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.001888 seconds.
+Registered in 0.002693 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.33 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.49 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
+[ScriptCompilation] NOT recompiling all scripts because this is an import worker process. Reason to compile was: Define symbols changed
 Mono: successfully reloaded assembly
-- Completed reload, in  0.757 seconds
+- Completed reload, in  0.991 seconds
 Domain Reload Profiling:
-	ReloadAssembly (758ms)
-		BeginReloadAssembly (95ms)
+	ReloadAssembly (991ms)
+		BeginReloadAssembly (111ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (3ms)
+			DisableScriptedObjects (6ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (27ms)
-		EndReloadAssembly (620ms)
-			LoadAssemblies (62ms)
+			CreateAndSetChildDomain (31ms)
+		EndReloadAssembly (824ms)
+			LoadAssemblies (78ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (200ms)
+			SetupTypeCache (259ms)
 			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (29ms)
-			SetupLoadedEditorAssemblies (254ms)
+			RebuildScriptCaches (39ms)
+			SetupLoadedEditorAssemblies (366ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (4ms)
+				InitializePlatformSupportModulesInManaged (5ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (0ms)
-				BeforeProcessingInitializeOnLoad (35ms)
-				ProcessInitializeOnLoadAttributes (210ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (49ms)
+				ProcessInitializeOnLoadAttributes (307ms)
 				ProcessInitializeOnLoadMethodAttributes (3ms)
 				AfterProcessingInitializeOnLoad (2ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (5ms)
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.32 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.34 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1403 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 74.0 MB.
-System memory in use after: 73.5 MB.
+Unloading 1523 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 81.5 MB.
+System memory in use after: 78.9 MB.
 
-Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 1899.
-Total: 2.548300 ms (FindLiveObjects: 0.111100 ms CreateObjectMapping: 0.029300 ms MarkObjects: 2.233700 ms  DeleteObjects: 0.173600 ms)
+Unloading 42 unused Assets to reduce memory usage. Loaded Objects now: 1986.
+Total: 3.033400 ms (FindLiveObjects: 0.144400 ms CreateObjectMapping: 0.034400 ms MarkObjects: 2.212600 ms  DeleteObjects: 0.641000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001956 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+[ScriptCompilation] NOT recompiling all scripts because this is an import worker process. Reason to compile was: Define symbols changed
+Mono: successfully reloaded assembly
+- Completed reload, in  0.784 seconds
+Domain Reload Profiling:
+	ReloadAssembly (784ms)
+		BeginReloadAssembly (78ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (3ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (24ms)
+		EndReloadAssembly (664ms)
+			LoadAssemblies (61ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (200ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (29ms)
+			SetupLoadedEditorAssemblies (300ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (37ms)
+				ProcessInitializeOnLoadAttributes (254ms)
+				ProcessInitializeOnLoadMethodAttributes (3ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.33 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1523 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 81.5 MB.
+System memory in use after: 79.0 MB.
+
+Unloading 42 unused Assets to reduce memory usage. Loaded Objects now: 1988.
+Total: 3.209200 ms (FindLiveObjects: 0.141800 ms CreateObjectMapping: 0.037900 ms MarkObjects: 2.341500 ms  DeleteObjects: 0.687400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001885 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.790 seconds
+Domain Reload Profiling:
+	ReloadAssembly (790ms)
+		BeginReloadAssembly (120ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (37ms)
+		EndReloadAssembly (624ms)
+			LoadAssemblies (61ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (202ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (29ms)
+			SetupLoadedEditorAssemblies (257ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (37ms)
+				ProcessInitializeOnLoadAttributes (211ms)
+				ProcessInitializeOnLoadMethodAttributes (3ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.33 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1523 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 81.5 MB.
+System memory in use after: 79.0 MB.
+
+Unloading 42 unused Assets to reduce memory usage. Loaded Objects now: 1990.
+Total: 2.843000 ms (FindLiveObjects: 0.134300 ms CreateObjectMapping: 0.034500 ms MarkObjects: 2.023300 ms  DeleteObjects: 0.650300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001895 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.35 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.803 seconds
+Domain Reload Profiling:
+	ReloadAssembly (803ms)
+		BeginReloadAssembly (119ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (3ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (35ms)
+		EndReloadAssembly (640ms)
+			LoadAssemblies (63ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (195ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (29ms)
+			SetupLoadedEditorAssemblies (268ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (42ms)
+				ProcessInitializeOnLoadAttributes (217ms)
+				ProcessInitializeOnLoadMethodAttributes (3ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.34 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1523 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 81.5 MB.
+System memory in use after: 79.0 MB.
+
+Unloading 42 unused Assets to reduce memory usage. Loaded Objects now: 1992.
+Total: 2.922500 ms (FindLiveObjects: 0.110900 ms CreateObjectMapping: 0.032100 ms MarkObjects: 2.108500 ms  DeleteObjects: 0.670200 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
