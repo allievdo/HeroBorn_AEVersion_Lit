@@ -1,0 +1,597 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.17f1 (a4537701e4ab) revision 10769271'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.1586; Version 2009; 64bit' Language: 'en' Physical Memory: 32498 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+D:\Program Files\2020.3.17f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+E:/SIM 150 Game Systems/HeroBorn_AEVersion_SetDressing2/HeroBornAEVer
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+55940
+Successfully changed project path to: E:/SIM 150 Game Systems/HeroBorn_AEVersion_SetDressing2/HeroBornAEVer
+E:/SIM 150 Game Systems/HeroBorn_AEVersion_SetDressing2/HeroBornAEVer
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 30.12 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.17f1 (a4537701e4ab)
+[Subsystems] Discovering subsystems at path D:/Program Files/2020.3.17f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/SIM 150 Game Systems/HeroBorn_AEVersion_SetDressing2/HeroBornAEVer/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Radeon (TM) RX 560X (ID=0x67ff)
+    Vendor:   
+    VRAM:     4076 MB
+    Driver:   30.0.13023.4001
+Initialize mono
+Mono path[0] = 'D:/Program Files/2020.3.17f1/Editor/Data/Managed'
+Mono path[1] = 'D:/Program Files/2020.3.17f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/Program Files/2020.3.17f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56708
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Program Files/2020.3.17f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/Program Files/2020.3.17f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001082 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 29.61 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.798 seconds
+Domain Reload Profiling:
+	ReloadAssembly (798ms)
+		BeginReloadAssembly (39ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (332ms)
+			LoadAssemblies (38ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (117ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (26ms)
+			SetupLoadedEditorAssemblies (136ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (30ms)
+				BeforeProcessingInitializeOnLoad (7ms)
+				ProcessInitializeOnLoadAttributes (65ms)
+				ProcessInitializeOnLoadMethodAttributes (30ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002515 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.974 seconds
+Domain Reload Profiling:
+	ReloadAssembly (975ms)
+		BeginReloadAssembly (253ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (15ms)
+		EndReloadAssembly (674ms)
+			LoadAssemblies (206ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (215ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (35ms)
+			SetupLoadedEditorAssemblies (285ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (42ms)
+				ProcessInitializeOnLoadAttributes (233ms)
+				ProcessInitializeOnLoadMethodAttributes (3ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.34 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1532 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 79.6 MB.
+System memory in use after: 79.0 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 1971.
+Total: 2.406400 ms (FindLiveObjects: 0.118300 ms CreateObjectMapping: 0.034500 ms MarkObjects: 2.069600 ms  DeleteObjects: 0.183300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Tarbo-CITY-TrafficLights/Prefabs
+  artifactKey: Guid(6aa8ffa0f51be8a49b973606eb43dd01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tarbo-CITY-TrafficLights/Prefabs using Guid(6aa8ffa0f51be8a49b973606eb43dd01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '826096e388175eaffa3e0d84deb8e8af') in 0.014930 seconds 
+  Import took 0.016740 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/Tarbo-CITY-TrafficLights/Prefabs/Props/Road
+  artifactKey: Guid(d525097032824e24f90f71ea7de24fb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tarbo-CITY-TrafficLights/Prefabs/Props/Road using Guid(d525097032824e24f90f71ea7de24fb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f15f665afc5c5c4234e6708505f78685') in 0.014920 seconds 
+  Import took 0.017114 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/Tarbo-CITY-TrafficLights/Textures
+  artifactKey: Guid(ee87a74ee2e5c4044a59f92192366173) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tarbo-CITY-TrafficLights/Textures using Guid(ee87a74ee2e5c4044a59f92192366173) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44ebdc0bfbc6630f11f6987f94a3c595') in 0.012554 seconds 
+  Import took 0.014470 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/Tarbo-CITY-TrafficLights/Prefabs/Props
+  artifactKey: Guid(e6488ac164289a347980f7acc8dfc534) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tarbo-CITY-TrafficLights/Prefabs/Props using Guid(e6488ac164289a347980f7acc8dfc534) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a401cc56b3265e22cc55f57410b47b39') in 0.014452 seconds 
+  Import took 0.016797 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.082167 seconds.
+  path: Assets/Tarbo-CITY-TrafficLights/Prefabs/Props/Road/TB_CITY_Prop_TrafficLight_4_Black.prefab
+  artifactKey: Guid(4270f2a69da41c04f9d1bb111e805c6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tarbo-CITY-TrafficLights/Prefabs/Props/Road/TB_CITY_Prop_TrafficLight_4_Black.prefab using Guid(4270f2a69da41c04f9d1bb111e805c6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d1d80978a6f8d07bb595a73ca5b009c') in 0.105012 seconds 
+  Import took 0.107843 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/Tarbo-CITY-TrafficLights/Prefabs/Props/Road/TB_CITY_Prop_TrafficLight_A_Green.prefab
+  artifactKey: Guid(b7c57068961755c498f5f15f0ce6fc87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tarbo-CITY-TrafficLights/Prefabs/Props/Road/TB_CITY_Prop_TrafficLight_A_Green.prefab using Guid(b7c57068961755c498f5f15f0ce6fc87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93c2f5e77edfe0a57a915ef1ff55b857') in 0.028194 seconds 
+  Import took 0.030219 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/Tarbo-CITY-TrafficLights/Prefabs/Props/Road/TB_CITY_Prop_TrafficLight_B_Green.prefab
+  artifactKey: Guid(c227da9241072dd4fb78210df9553677) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tarbo-CITY-TrafficLights/Prefabs/Props/Road/TB_CITY_Prop_TrafficLight_B_Green.prefab using Guid(c227da9241072dd4fb78210df9553677) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '886acc2708fd51f842e2e9ad7b1bd63e') in 0.028059 seconds 
+  Import took 0.030050 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/Tarbo-CITY-TrafficLights/Prefabs/Props/Road/TB_CITY_Prop_TrafficLight_Base_T_B.prefab
+  artifactKey: Guid(55376877acb72ac49affb123544bdb20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tarbo-CITY-TrafficLights/Prefabs/Props/Road/TB_CITY_Prop_TrafficLight_Base_T_B.prefab using Guid(55376877acb72ac49affb123544bdb20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf64f4b126001b50cec9c6945d6c8f9d') in 0.025467 seconds 
+  Import took 0.027942 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/Tarbo-CITY-TrafficLights/Prefabs/Props/Road/TB_CITY_Prop_TrafficLight_4_White.prefab
+  artifactKey: Guid(2d6add7df6bf8e44bb2fe494a7653cd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tarbo-CITY-TrafficLights/Prefabs/Props/Road/TB_CITY_Prop_TrafficLight_4_White.prefab using Guid(2d6add7df6bf8e44bb2fe494a7653cd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '434d0fa59e70ad679202ea3ea282fca5') in 0.024509 seconds 
+  Import took 0.026782 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/Tarbo-CITY-TrafficLights/Prefabs/Props/Road/TB_CITY_Prop_TrafficLight_4Set_Black.prefab
+  artifactKey: Guid(967db41cbc4a3c24eb1e31617647bf32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tarbo-CITY-TrafficLights/Prefabs/Props/Road/TB_CITY_Prop_TrafficLight_4Set_Black.prefab using Guid(967db41cbc4a3c24eb1e31617647bf32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b62d1d4b660ce65240a42e255e4ac28') in 0.025645 seconds 
+  Import took 0.027855 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000356 seconds.
+  path: Assets/Tarbo-CITY-TrafficLights/Prefabs/Props/Road/TB_CITY_Prop_TrafficLight_HSet_Green.prefab
+  artifactKey: Guid(149299d47b9e73442b755810e20a94db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tarbo-CITY-TrafficLights/Prefabs/Props/Road/TB_CITY_Prop_TrafficLight_HSet_Green.prefab using Guid(149299d47b9e73442b755810e20a94db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7112328448ed0cd7f64a0c85d8447569') in 0.021184 seconds 
+  Import took 0.023270 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/Tarbo-CITY-TrafficLights/Prefabs/Props/Road/TB_CITY_Prop_TrafficLight_Base_I_B.prefab
+  artifactKey: Guid(0fdaa51f7c203e64cba6c5500b58460d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tarbo-CITY-TrafficLights/Prefabs/Props/Road/TB_CITY_Prop_TrafficLight_Base_I_B.prefab using Guid(0fdaa51f7c203e64cba6c5500b58460d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75fdb7724bb5e1473316fe8464332930') in 0.021347 seconds 
+  Import took 0.023464 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/Tarbo-CITY-TrafficLights/Prefabs/Props/Road/TB_CITY_Prop_TrafficLight_C_Black.prefab
+  artifactKey: Guid(9f7d9f7144dc2a640949188aaf615f8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tarbo-CITY-TrafficLights/Prefabs/Props/Road/TB_CITY_Prop_TrafficLight_C_Black.prefab using Guid(9f7d9f7144dc2a640949188aaf615f8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9c23dda9d71544ca863e025e37c3d6d') in 0.022805 seconds 
+  Import took 0.024736 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/Tarbo-CITY-TrafficLights/Prefabs/Props/Road/TB_CITY_Prop_TrafficLight_VSet_White.prefab
+  artifactKey: Guid(3bf2a3dc060bfea4cbad4dec395d2ffc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tarbo-CITY-TrafficLights/Prefabs/Props/Road/TB_CITY_Prop_TrafficLight_VSet_White.prefab using Guid(3bf2a3dc060bfea4cbad4dec395d2ffc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03bc43416730480fa4a2c4026b135b32') in 0.020486 seconds 
+  Import took 0.022459 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/Tarbo-CITY-TrafficLights/Prefabs/Props/Road/TB_CITY_Prop_TrafficLight_4Set_Yellow.prefab
+  artifactKey: Guid(8f845198ed09c3c4bac1cbc4fce5e435) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tarbo-CITY-TrafficLights/Prefabs/Props/Road/TB_CITY_Prop_TrafficLight_4Set_Yellow.prefab using Guid(8f845198ed09c3c4bac1cbc4fce5e435) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e24f1453d91dabf10c3a81d3c6f6a4d') in 0.021990 seconds 
+  Import took 0.024189 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/Tarbo-CITY-TrafficLights/Prefabs/Props/Road/TB_CITY_Prop_TrafficLight_A_Yellow.prefab
+  artifactKey: Guid(57fb76bdd2c93e54d93dbe1ed0847ce8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tarbo-CITY-TrafficLights/Prefabs/Props/Road/TB_CITY_Prop_TrafficLight_A_Yellow.prefab using Guid(57fb76bdd2c93e54d93dbe1ed0847ce8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5380bbe53649972d9178b827c75c7eb8') in 0.021027 seconds 
+  Import took 0.023191 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/Tarbo-CITY-TrafficLights/Prefabs/Props/Road/TB_CITY_Prop_TrafficLight_C_White.prefab
+  artifactKey: Guid(0341bdd42105e2e4a8534e6d5e15f6c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tarbo-CITY-TrafficLights/Prefabs/Props/Road/TB_CITY_Prop_TrafficLight_C_White.prefab using Guid(0341bdd42105e2e4a8534e6d5e15f6c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0cb74de36a0f98cd88e50b662a3dc4b3') in 0.022092 seconds 
+  Import took 0.024154 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/Tarbo-CITY-TrafficLights/Prefabs/Props/Road/TB_CITY_Prop_TrafficLight_4_Green.prefab
+  artifactKey: Guid(593a5e824ef786145bd29dc420e1ff1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tarbo-CITY-TrafficLights/Prefabs/Props/Road/TB_CITY_Prop_TrafficLight_4_Green.prefab using Guid(593a5e824ef786145bd29dc420e1ff1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99f49e2f20dac78164e9af448c9d57d3') in 0.023698 seconds 
+  Import took 0.025665 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/Tarbo-CITY-TrafficLights/Prefabs/Props/Road/TB_CITY_Prop_TrafficLight_VSet_Black.prefab
+  artifactKey: Guid(597e85f7f9640614fb81bc56394201e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tarbo-CITY-TrafficLights/Prefabs/Props/Road/TB_CITY_Prop_TrafficLight_VSet_Black.prefab using Guid(597e85f7f9640614fb81bc56394201e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73c1a5352bf348c6a83d01ead8a1e2bd') in 0.020951 seconds 
+  Import took 0.023081 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000108 seconds.
+  path: Assets/Tarbo-CITY-TrafficLights/Prefabs/Props/Road/TB_CITY_Prop_TrafficLight_B_White.prefab
+  artifactKey: Guid(0b059522cff844f419f1c035f72b495f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tarbo-CITY-TrafficLights/Prefabs/Props/Road/TB_CITY_Prop_TrafficLight_B_White.prefab using Guid(0b059522cff844f419f1c035f72b495f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43261879433f3fa63fcfa5f2e033601f') in 0.021107 seconds 
+  Import took 0.023137 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000106 seconds.
+  path: Assets/Tarbo-CITY-TrafficLights/Prefabs/Props/Road/TB_CITY_Prop_TrafficLight_A_Black.prefab
+  artifactKey: Guid(682f8b1e793d91f43b2ec051e8fd4f3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tarbo-CITY-TrafficLights/Prefabs/Props/Road/TB_CITY_Prop_TrafficLight_A_Black.prefab using Guid(682f8b1e793d91f43b2ec051e8fd4f3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd85b3bdaf42ade66a24c213ba86110f7') in 0.021800 seconds 
+  Import took 0.023944 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000173 seconds.
+  path: Assets/Tarbo-CITY-TrafficLights/Prefabs/Props/Road/TB_CITY_Prop_TrafficLight_VSet_Yellow.prefab
+  artifactKey: Guid(798f386d6a290cb46afae69c990cb793) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tarbo-CITY-TrafficLights/Prefabs/Props/Road/TB_CITY_Prop_TrafficLight_VSet_Yellow.prefab using Guid(798f386d6a290cb46afae69c990cb793) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be25dc629d4753e4f08e26582def639a') in 0.022002 seconds 
+  Import took 0.024221 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/Tarbo-CITY-TrafficLights/Prefabs/Props/Road/TB_CITY_Prop_TrafficLight_C_Yellow.prefab
+  artifactKey: Guid(ce24a87ab63913d45abd62c7c97f2b0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tarbo-CITY-TrafficLights/Prefabs/Props/Road/TB_CITY_Prop_TrafficLight_C_Yellow.prefab using Guid(ce24a87ab63913d45abd62c7c97f2b0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df402ef68ef0d1e8a63466ffb55265c8') in 0.022757 seconds 
+  Import took 0.025298 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/Tarbo-CITY-TrafficLights/Prefabs/Props/Road/TB_CITY_Prop_TrafficLight_A_White.prefab
+  artifactKey: Guid(1784f1ee57872f34fba1ed9e509053e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tarbo-CITY-TrafficLights/Prefabs/Props/Road/TB_CITY_Prop_TrafficLight_A_White.prefab using Guid(1784f1ee57872f34fba1ed9e509053e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2c88fa6538ea25d86f92913991015e1') in 0.022902 seconds 
+  Import took 0.025055 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/Tarbo-CITY-TrafficLights/Prefabs/Props/Road/TB_CITY_Prop_TrafficLight_B_Black.prefab
+  artifactKey: Guid(a5faf4711ef4cef489a20f0ef5c5e8f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tarbo-CITY-TrafficLights/Prefabs/Props/Road/TB_CITY_Prop_TrafficLight_B_Black.prefab using Guid(a5faf4711ef4cef489a20f0ef5c5e8f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e456700afd01d4406cca73093b719af7') in 0.021180 seconds 
+  Import took 0.023311 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Tarbo-CITY-TrafficLights/Prefabs/Props/Road/TB_CITY_Prop_TrafficLight_HSet_White.prefab
+  artifactKey: Guid(1262e16160fc5f8488102c16691970f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tarbo-CITY-TrafficLights/Prefabs/Props/Road/TB_CITY_Prop_TrafficLight_HSet_White.prefab using Guid(1262e16160fc5f8488102c16691970f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9188b4032be7415ce54c979325218f7a') in 0.021366 seconds 
+  Import took 0.023482 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000162 seconds.
+  path: Assets/Tarbo-CITY-TrafficLights/Prefabs/Props/Road/TB_CITY_Prop_TrafficLight_HSet_Black.prefab
+  artifactKey: Guid(893ca2168422874479700e7bdeb2420b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tarbo-CITY-TrafficLights/Prefabs/Props/Road/TB_CITY_Prop_TrafficLight_HSet_Black.prefab using Guid(893ca2168422874479700e7bdeb2420b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd860d4be98f9f22f329549b03fc8ba35') in 0.021501 seconds 
+  Import took 0.023534 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/Tarbo-CITY-TrafficLights/Prefabs/Props/Road/TB_CITY_Prop_TrafficLight_4Set_White.prefab
+  artifactKey: Guid(fe4b5c3076c71e442af97fe15b069b7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tarbo-CITY-TrafficLights/Prefabs/Props/Road/TB_CITY_Prop_TrafficLight_4Set_White.prefab using Guid(fe4b5c3076c71e442af97fe15b069b7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe97e694541f99762e0ac051dad0fac1') in 0.021254 seconds 
+  Import took 0.023465 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/Tarbo-CITY-TrafficLights/Prefabs/Props/Road/TB_CITY_Prop_TrafficLight_HSet_Yellow.prefab
+  artifactKey: Guid(bf3d68831a14b034097ac0b569f49a94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tarbo-CITY-TrafficLights/Prefabs/Props/Road/TB_CITY_Prop_TrafficLight_HSet_Yellow.prefab using Guid(bf3d68831a14b034097ac0b569f49a94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09f3355067d4b1c458f6939bcff028d5') in 0.021537 seconds 
+  Import took 0.023624 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/Tarbo-CITY-TrafficLights/Prefabs/Props/Road/TB_CITY_Prop_TrafficLight_VSet_Green.prefab
+  artifactKey: Guid(c9aa0a2fd3b0e4448914e57ffb78cb61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tarbo-CITY-TrafficLights/Prefabs/Props/Road/TB_CITY_Prop_TrafficLight_VSet_Green.prefab using Guid(c9aa0a2fd3b0e4448914e57ffb78cb61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e7bfcbbb5e375684365894f81953366') in 0.021489 seconds 
+  Import took 0.023666 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/Tarbo-CITY-TrafficLights/Prefabs/Props/Road/TB_CITY_Prop_TrafficLight_4Set_Green.prefab
+  artifactKey: Guid(43811916c3a68664fb20a7a6928f7442) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tarbo-CITY-TrafficLights/Prefabs/Props/Road/TB_CITY_Prop_TrafficLight_4Set_Green.prefab using Guid(43811916c3a68664fb20a7a6928f7442) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ec4d9972d25a66d7d4a935d6d0b82c3') in 0.022561 seconds 
+  Import took 0.024620 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/Tarbo-CITY-TrafficLights/Prefabs/Props/Road/TB_CITY_Prop_TrafficLight_4_Yellow.prefab
+  artifactKey: Guid(d35163183e7953f4ea576a1593d4a894) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tarbo-CITY-TrafficLights/Prefabs/Props/Road/TB_CITY_Prop_TrafficLight_4_Yellow.prefab using Guid(d35163183e7953f4ea576a1593d4a894) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b4df3b60c30cbf46f8f2d13cf5ac03d') in 0.025269 seconds 
+  Import took 0.027284 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/Tarbo-CITY-TrafficLights/Prefabs/Props/Road/TB_CITY_Prop_TrafficLight_Base_I_A.prefab
+  artifactKey: Guid(d01359581b30d274798a2908a7b0b1ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tarbo-CITY-TrafficLights/Prefabs/Props/Road/TB_CITY_Prop_TrafficLight_Base_I_A.prefab using Guid(d01359581b30d274798a2908a7b0b1ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a574887d504367791d868a5c04fdae2') in 0.020233 seconds 
+  Import took 0.022298 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/Tarbo-CITY-TrafficLights/Prefabs/Props/Road/TB_CITY_Prop_TrafficLight_B_Yellow.prefab
+  artifactKey: Guid(bb5be0490bf0b1e4b9cd260f2887fc3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tarbo-CITY-TrafficLights/Prefabs/Props/Road/TB_CITY_Prop_TrafficLight_B_Yellow.prefab using Guid(bb5be0490bf0b1e4b9cd260f2887fc3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3173fec14d9359d802ff529e85d5dacc') in 0.020843 seconds 
+  Import took 0.022954 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/Tarbo-CITY-TrafficLights/Prefabs/Props/Road/TB_CITY_Prop_TrafficLight_C_Green.prefab
+  artifactKey: Guid(8e9ae156b744bcb46a1127513188d623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tarbo-CITY-TrafficLights/Prefabs/Props/Road/TB_CITY_Prop_TrafficLight_C_Green.prefab using Guid(8e9ae156b744bcb46a1127513188d623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f3c587850c61d9f61275e2f7cdd137b') in 0.020916 seconds 
+  Import took 0.022993 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000167 seconds.
+  path: Assets/Tarbo-CITY-TrafficLights/Prefabs/Props/Road/TB_CITY_Prop_TrafficLight_Base_T_A.prefab
+  artifactKey: Guid(8e2f290b45ca5f5448c07439efb86dcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tarbo-CITY-TrafficLights/Prefabs/Props/Road/TB_CITY_Prop_TrafficLight_Base_T_A.prefab using Guid(8e2f290b45ca5f5448c07439efb86dcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47828ee112dbf257a8ef0608b30bd84f') in 0.020976 seconds 
+  Import took 0.023246 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.014861 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.35 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.782 seconds
+Domain Reload Profiling:
+	ReloadAssembly (782ms)
+		BeginReloadAssembly (88ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (28ms)
+		EndReloadAssembly (648ms)
+			LoadAssemblies (75ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (212ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (30ms)
+			SetupLoadedEditorAssemblies (258ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (37ms)
+				ProcessInitializeOnLoadAttributes (212ms)
+				ProcessInitializeOnLoadMethodAttributes (3ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.35 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1496 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 79.5 MB.
+System memory in use after: 79.1 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 1980.
+Total: 2.444500 ms (FindLiveObjects: 0.108100 ms CreateObjectMapping: 0.031100 ms MarkObjects: 2.140900 ms  DeleteObjects: 0.163600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001938 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.753 seconds
+Domain Reload Profiling:
+	ReloadAssembly (754ms)
+		BeginReloadAssembly (80ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (25ms)
+		EndReloadAssembly (629ms)
+			LoadAssemblies (61ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (199ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (30ms)
+			SetupLoadedEditorAssemblies (263ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (40ms)
+				ProcessInitializeOnLoadAttributes (213ms)
+				ProcessInitializeOnLoadMethodAttributes (3ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.34 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1496 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 79.6 MB.
+System memory in use after: 79.1 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 1982.
+Total: 2.689000 ms (FindLiveObjects: 0.129800 ms CreateObjectMapping: 0.031200 ms MarkObjects: 2.261500 ms  DeleteObjects: 0.265900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001886 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.35 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.765 seconds
+Domain Reload Profiling:
+	ReloadAssembly (766ms)
+		BeginReloadAssembly (81ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (3ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (24ms)
+		EndReloadAssembly (640ms)
+			LoadAssemblies (64ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (205ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (32ms)
+			SetupLoadedEditorAssemblies (263ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (38ms)
+				ProcessInitializeOnLoadAttributes (216ms)
+				ProcessInitializeOnLoadMethodAttributes (3ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.34 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1496 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 79.6 MB.
+System memory in use after: 79.1 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 1984.
+Total: 2.607000 ms (FindLiveObjects: 0.116200 ms CreateObjectMapping: 0.031400 ms MarkObjects: 2.277600 ms  DeleteObjects: 0.181200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
