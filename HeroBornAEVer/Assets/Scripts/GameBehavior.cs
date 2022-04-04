@@ -42,6 +42,11 @@ public class GameBehavior : MonoBehaviour
         {
             _playerHP = value;
             Debug.LogFormat("Lives: {0}", _playerHP);
+
+            if (_playerHP <= 0)
+            {
+                showLossScreen = true;
+            }
         }
     }
 
