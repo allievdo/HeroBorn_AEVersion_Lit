@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/AE_HeroBorn_ver2.unity
     guid: 62d95ef49e9f51d4c8c04d21d4398467
+  - enabled: 1
+    path: Assets/Scenes/Win.unity
+    guid: c6251d83c4125b44a9da68e961137f74
   m_configObjects: {}

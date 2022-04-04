@@ -42,16 +42,6 @@ public class GameBehavior : MonoBehaviour
         {
             _playerHP = value;
             Debug.LogFormat("Lives: {0}", _playerHP);
-            if(_playerHP <= (0))
-            {
-                labelText = "Need another life?";
-                showLossScreen = true;
-                Time.timeScale = 0;
-            }
-            else
-            {
-                labelText = "Ouch!";
-            }
         }
     }
 
@@ -69,21 +59,13 @@ public class GameBehavior : MonoBehaviour
 
         if (showWinScreen)
         {
-            if (GUI.Button(new Rect(Screen.width / 2 - 100, Screen.height / 2 - 50, 200, 100), "YOU WON!"))
-            {
-                SceneManager.LoadScene(0);
+                SceneManager.LoadScene(2);
                 Time.timeScale = 1.0f;
-                RestartLevel();
-            }
         }
         if(showLossScreen)
         {
-            if (GUI.Button(new Rect(Screen.width / 2 - 100, Screen.height / 2 - 50, 200, 100), "You lose..."))
-            {
-                SceneManager.LoadScene(0);
+                SceneManager.LoadScene(3);
                 Time.timeScale = 1.0f;
-                RestartLevel();
-            }
         }
     }
 }
