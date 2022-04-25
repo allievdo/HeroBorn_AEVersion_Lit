@@ -45,6 +45,9 @@ public class PlayerBehavior : MonoBehaviour
         if (IsGrounded() && Input.GetKeyDown(KeyCode.Space))
         {
             doJump = true;
+
+            var audioSource = GetComponent<AudioSource>();
+            audioSource.Play();
         }
 
         if (Input.GetMouseButtonDown(0))

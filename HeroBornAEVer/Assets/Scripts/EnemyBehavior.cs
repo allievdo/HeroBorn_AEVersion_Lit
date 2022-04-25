@@ -82,6 +82,9 @@ public class EnemyBehavior : MonoBehaviour
         {
             EnemyLives -= 1;
             Debug.Log("Critical hit!");
+
+            var audioSource = GetComponent<AudioSource>();
+            audioSource.Play();
         }
     }
 }
